@@ -38,3 +38,6 @@ npm start
 ├── package.json        # Información sobre el proyecto y dependencias
 ├── README.md           # Este archivo
 └── package-lock.json   # Bloqueo de versiones de dependencias
+
+
+![alt text](image.png)
